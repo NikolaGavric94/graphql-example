@@ -11,7 +11,7 @@ npm install
 npm run dev
 ```
 
-You should be able to see the app running at http://localhost:3000.
+You should be able to see the app running at http://localhost:3000 or if using docker at http://localhost
 
 Information
 ---
